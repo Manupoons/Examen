@@ -112,3 +112,7 @@ Una vez hechos todos estos pasos pondremos en nuestro buscador la dirección que
 
 ## Conclusión
 Para poder hacer este exámen tenias que venir con las ideas claras y con los conceptos que hemos visto en clase claros también. Algun ejercicio era más sencillo de sacar que otro si sabías donde buscar, aunque en general si has seguido el ritmo de clase y has trabajado lo que debías el examen deberías poder aprobarlo. Aunque no era fácil no me ha parecido muy dificl, se acoplaba a los conocimientos adquiridos a lo largo del curso.
+
+## Bibliografía
+La mayor parte proviene de mis apuntes hechos en clase.
+[](https://ubunlog.com/descargar-archivos-desde-terminal-ubuntu/)
