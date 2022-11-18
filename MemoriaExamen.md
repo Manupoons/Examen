@@ -1,18 +1,17 @@
 # Examen
 
+## Introducción
+Esta memoria va a redactar el proceso de trabajo en el examen de la asignatura de despliegue de aplciaciones web, iré por pasos explicando mi trabajo realizado y su proceso, y al final redactaré una conclusión.
+
 ## Índice
 
-* Introducción
 * Palabras clave
 * Contexto
 * Ejercicios
 * Conclusión
 
-## Introducción
-Esta memoria va a redactar el proceso de trabajo en el examen de la asignatura de despliegue de aplciaciones web, iré por pasos explicando mi trabajo realizado y su proceso, y al final redactaré una conclusión.
-
 ## Palabras clave
-Algunas palabras clave que iré usando a lo largo de este escrito son:
+Algunas palabras clave que iré usando a lo largo de este escrito son:  
   comando, directorio, terminal, máquina, apache, hosts virtuales.
   
 ## Contexto
@@ -20,7 +19,7 @@ En el examen de hoy de despliegue de aplciaciones web tenemos que redactar una m
 
 ## Ejercicios
 
-* Ejercicio 2
+* **Ejercicio 2**
 
 Lo primero que hacemos es abrir la terminal y con los datos necesarios y el siguiente comando entramos en la máquina
 ```
@@ -44,7 +43,7 @@ $ sudo touch ejercicio2.txt
 ```
 para crear nuestro archivo .txt y finalizar este ejercicio. 
 
-* Ejercicio 3
+* **Ejercicio 3**
 
 En este ejercicio seguimos dentro de la máquina y nos metemos en el direcotorio que hemos creado antes con el comando 
 ```
@@ -56,7 +55,7 @@ $ sudo curl -O https://iesalandalus.org/ciclos/semipresencial/daw-sp/daw.png
 ```
 y así terminaremos este ejercicio.
 
-* Ejercicio 4
+* **Ejercicio 4**
 
 En este ejercicio trabajamos en nuestro ordenador por lo que tendremos que salir de la máquina usando el comando 
 ```
