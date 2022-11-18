@@ -9,6 +9,7 @@ Esta memoria va a redactar el proceso de trabajo en el examen de la asignatura d
 * Contexto
 * Ejercicios
 * Conclusión
+* Bibliografía
 
 ## Palabras clave
 Algunas palabras clave que iré usando a lo largo de este escrito son:  
