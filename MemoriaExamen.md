@@ -115,4 +115,4 @@ Para poder hacer este exámen tenias que venir con las ideas claras y con los co
 
 ## Bibliografía
 La mayor parte proviene de mis apuntes hechos en clase.
-[](https://ubunlog.com/descargar-archivos-desde-terminal-ubuntu/)
+[https://ubunlog.com/descargar-archivos-desde-terminal-ubuntu/](https://ubunlog.com/descargar-archivos-desde-terminal-ubuntu/)
